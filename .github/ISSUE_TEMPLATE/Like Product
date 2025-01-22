@@ -1,0 +1,21 @@
+**As a** customer, 
+**I need** the ability to like a product in the catalog, 
+**So that** I can easily find and revisit products I am interested in.
+
+**Acceptance Criteria:**
+
+*   Given I am viewing a product, 
+    When I click the "Like" button, 
+    Then the product should be marked as "liked" for my user account.
+*   Given I have previously liked a product, 
+    When I click the "Like" button again, 
+    Then the "like" should be removed.
+
+**Labels:** 
+enhancement
+
+**Estimate:** 
+2 
+
+**Note:** 
+None
