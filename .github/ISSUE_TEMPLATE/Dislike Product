@@ -1,0 +1,21 @@
+**As a** customer, 
+**I need** the ability to dislike a product in the catalog, 
+**So that** I can filter out products that are not relevant to my interests.
+
+**Acceptance Criteria:**
+
+*   Given I am viewing a product, 
+    When I click the "Dislike" button, 
+    Then the product should be marked as "disliked" for my user account.
+*   Given I have previously disliked a product, 
+    When I click the "Dislike" button again, 
+    Then the "dislike" should be removed.
+
+**Labels:** 
+enhancement
+
+**Estimate:** 
+2 
+
+**Note:** 
+None
