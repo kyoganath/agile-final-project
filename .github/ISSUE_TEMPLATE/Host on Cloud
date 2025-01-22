@@ -1,0 +1,18 @@
+**As a** development team, 
+**I need** the ability to host the product catalog on a cloud platform, 
+**So that** the application is accessible and scalable.
+
+**Acceptance Criteria:**
+
+*   The product catalog should be deployed to a cloud environment (e.g., AWS, Azure, GCP).
+*   The deployed application should be accessible to users via a web address.
+*   The cloud infrastructure should be configured for scalability to handle increasing traffic.
+
+**Labels:** 
+enhancement
+
+**Estimate:** 
+8 
+
+**Note:** 
+Consider using a containerization solution like Docker and a container orchestration service like Kubernetes for deployment.
