@@ -1,0 +1,21 @@
+**As a** store administrator, 
+**I need** the ability to update an existing product in the catalog, 
+**So that** I can make changes to its details (e.g., price, description, availability).
+
+**Acceptance Criteria:**
+
+*   Given I have the unique identifier of a product and valid updated information, 
+    When I submit the update request, 
+    Then the product details should be successfully updated in the catalog.
+*   Given I attempt to update a product with invalid data (e.g., negative price), 
+    When I submit the update request, 
+    Then the system should display an error message and prevent the update.
+
+**Labels:** 
+enhancement
+
+**Estimate:** 
+5 
+
+**Note:** 
+None
