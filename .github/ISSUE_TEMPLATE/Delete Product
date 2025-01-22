@@ -1,0 +1,21 @@
+**As a** store administrator, 
+**I need** the ability to delete a product from the catalog, 
+**So that** I can remove products that are no longer available or relevant.
+
+**Acceptance Criteria:**
+
+*   Given I know the unique identifier of a product, 
+    When I request to delete the product, 
+    Then the product should be successfully removed from the catalog.
+*   Given I attempt to delete a product that does not exist, 
+    When I make the delete request, 
+    Then the system should return an appropriate error message.
+
+**Labels:** 
+enhancement
+
+**Estimate:** 
+3 
+
+**Note:** 
+None
