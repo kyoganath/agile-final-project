@@ -1,0 +1,18 @@
+**As a** customer, 
+**I need** the ability to list all products in the catalog, 
+**So that** I can browse the available products.
+
+**Acceptance Criteria:**
+
+*   When I request a list of all products, 
+    Then the system should return a complete list of all available products.
+*   The list should be presented in a user-friendly format (e.g., paginated, with filtering options).
+
+**Labels:** 
+enhancement
+
+**Estimate:** 
+8 
+
+**Note:** 
+None
