@@ -1,0 +1,21 @@
+**As a** store administrator, 
+**I need** the ability to retrieve a specific product from the catalog, 
+**So that** I can view its details.
+
+**Acceptance Criteria:**
+
+*   Given I know the unique identifier of a product, 
+    When I request the product details, 
+    Then the system should return the complete details of the specified product.
+*   Given I request the details of a product that does not exist, 
+    When I make the request, 
+    Then the system should return an appropriate error message.
+
+**Labels:** 
+enhancement
+
+**Estimate:** 
+2 
+
+**Note:** 
+None
